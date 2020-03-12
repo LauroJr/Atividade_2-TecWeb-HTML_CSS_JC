@@ -1,0 +1,6 @@
+h1{
+    @font-face {
+        font-family: computer-font.ttf;
+        src: url(../_fonts/bubblegum-sans-regular.otf);
+    }
+}
